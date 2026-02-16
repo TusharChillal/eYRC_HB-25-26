@@ -1,4 +1,4 @@
-# HoloBattalion (HB) | Multi-Robot Autonomous Warehouse System
+he# HoloBattalion (HB) | Multi-Robot Autonomous Warehouse System
 ### e-Yantra Robotics Competition 2025-26 | Team ID: 3081
 
 This repository serves as a professional portfolio for Team 3081's implementation of the **HoloBattalion** theme. The project focuses on the coordinated control of a holonomic robot fleet designed for automated sorting and storage in a simulated cold-storage environment.
@@ -62,10 +62,10 @@ The system utilizes a hybrid control architecture. While the source code is prot
 ---
 
 ## Team 3081
-* **Tushar** - Team Lead | Navigation & Embedded Systems
-* [Team Member 2 Name]
-* [Team Member 3 Name]
-* [Team Member 4 Name]
+* **Tushar** - Navigation & Embedded Systems
+* **Paranjay**
+* **Ananaya**
+* **Sumukh**
 
 ---
 *Disclaimer: Source code and detailed logic are withheld in compliance with e-Yantra competition guidelines to maintain academic integrity.*
